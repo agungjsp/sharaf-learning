@@ -19,10 +19,10 @@ Tanggal: 19 September 2026. Versi aplikasi: 2.0.0.
 | Pertanyaan tidak cocok dengan kunci | Prompt lama yang tidak sesuai dihapus; bank eksplisit membedakan pengetahuan dan konteks penerapan | Validasi seluruh bank; uji konteks tunggal dan bentuk berulang |
 | Latihan sama dengan cek | Bank latihan terpisah; cek memakai penerapan; remediasi memuat konteks yang gagal | Tes setiap pelajaran dan perjalanan gagal → remediasi → lulus |
 | Skip-link membuka rute salah | Fokus langsung ke main tanpa mengganti hash | Pemeriksaan implementasi; siap diuji lewat keyboard |
-| Ukuran Arab tidak berubah | Variabel ukuran diwariskan dari elemen root aplikasi | Tes 48 px, refresh, dan ukuran maksimum pada tabel |
-| Parameter referensi tidak reaktif | Query hash dibaca menjadi state aplikasi | Tes dua parameter pelajaran pada rute yang sama |
+| Ukuran Arab tidak berubah | Variabel ukuran diwariskan dari elemen root aplikasi | Implementasi pewarisan ukuran; 48 px, refresh, dan tabel menunggu smoke test manual |
+| Parameter referensi tidak reaktif | Query hash dibaca menjadi state aplikasi | Implementasi state query; pergantian parameter pada rute yang sama menunggu smoke test manual |
 | Referensi hilang di HP | Tautan tiap pelajaran tetap tampil; tabel punya area gulir keyboard | Cakupan data otomatis; tampilan 320/390 px siap diuji manual |
-| Refresh mengulang latihan | Draft menyimpan pertanyaan, pilihan, jawaban, posisi, dan feedback | Tes latihan kedua, refresh, referensi–kembali, serta draft cek |
+| Refresh mengulang latihan | Draft menyimpan pertanyaan, pilihan, jawaban, posisi, dan feedback | Tes penyimpanan draft; refresh dan referensi–kembali menunggu smoke test manual |
 
 ## Integritas data
 
@@ -31,6 +31,8 @@ Cadangan lengkap yang dibuat oleh engine v1 asli diuji sebagai fixture. Seluruh 
 Migrasi menyalin byte data lama sebelum penyimpanan versi 2. Jika penyalinan atau penyimpanan gagal, UI memberi jalur ekspor dan tidak menimpa data lama otomatis. Pemulihan cadangan menghapus sesi aktif sebelumnya. Pembaruan tab lain mengganti sesi yang tidak cocok; data eksternal yang tidak valid dilindungi.
 
 ## Pemeriksaan
+
+Hasil otomatis berikut dicatat pada implementasi 19 September 2026. Hasil ini bukan bukti pengujian browser.
 
 - `npm test`: 16 tes logika, kurikulum, dan kompatibilitas.
 - `npm run check`: Svelte dan TypeScript tanpa error/warning; sumber yang dibundel harus cocok dengan Markdown asli.
@@ -46,6 +48,19 @@ Redesign ini belum diklaim lolos pengujian visual browser. Proyek melarang agen 
 Sumber tunggal penambahan ini adalah `docs/sumber.md`. Catatan pemeriksaan PDF lama M0–M1 tetap tersedia, tetapi tidak dianggap verifikasi scan atas soal baru. Entri dengan batas atau ketidakjelasan transkripsi tetap menjadi referensi. Mazid hanya pengantar; tidak ada klaim seluruh rincian 22 bab atau mesin tashrif untuk akar sembarang.
 
 Uji belajar nyata 7–14 hari masih diperlukan untuk menilai durasi sesi, pemahaman setelah remediasi, dan retensi pada tiga tanggal berbeda. Tes teknis memastikan perilaku aplikasi, bukan membuktikan hasil belajar.
+
+## Status UI/UX
+
+Implementasi redesign tersedia. Validasi visual dan interaksi browser masih menunggu [smoke test manual](UI-UX-SMOKE-TEST.md).
+
+- Navigasi utama: Beranda, Materi, Latihan, Referensi, dan Progres. Pengaturan tersedia melalui header.
+- Fase pelajaran: Materi → Latihan → Cek. Langkah Ingat kembali berada dalam fase Latihan.
+- Tailwind, komponen shadcn-svelte, dan font lokal membentuk fondasi UI. Stylesheet global berada di `src/styles.css`.
+- Format progres v2, kunci penyimpanan, dan URL lama tetap dipertahankan. `#review` dan `#mixed` membuka tab pada Latihan.
+- Langkah lama 0–2 dipetakan ke Materi, 3–4 ke Latihan, dan 5 ke Cek. `Draft.index` menyimpan nomor soal aktif.
+- Perubahan visual tidak menaikkan revisi materi.
+
+Bagian ini menggantikan roadmap UI/UX terpisah agar status implementasi tidak dicatat di dua tempat.
 
 ## Dokumen terkait
 
