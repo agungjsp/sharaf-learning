@@ -1,0 +1,1045 @@
+{
+  "exportedAt": "2026-09-15T12:00:00Z",
+  "progress": {
+    "formatVersion": 1,
+    "contentVersion": 1,
+    "lessons": {
+      "harakat": {
+        "step": 5,
+        "passed": true,
+        "attempts": 1,
+        "score": 5,
+        "revision": 1,
+        "wrong": []
+      },
+      "tanda-lanjutan": {
+        "step": 5,
+        "passed": true,
+        "attempts": 1,
+        "score": 5,
+        "revision": 2,
+        "wrong": []
+      },
+      "dhamir-sudut-pandang": {
+        "step": 5,
+        "passed": true,
+        "attempts": 1,
+        "score": 5,
+        "revision": 1,
+        "wrong": []
+      },
+      "dhamir-jumlah": {
+        "step": 5,
+        "passed": true,
+        "attempts": 1,
+        "score": 5,
+        "revision": 1,
+        "wrong": []
+      },
+      "dhamir-peta": {
+        "step": 5,
+        "passed": true,
+        "attempts": 1,
+        "score": 5,
+        "revision": 1,
+        "wrong": []
+      },
+      "wazan-tiga-huruf": {
+        "step": 5,
+        "passed": true,
+        "attempts": 1,
+        "score": 5,
+        "revision": 1,
+        "wrong": []
+      },
+      "huruf-asli-tambahan": {
+        "step": 5,
+        "passed": true,
+        "attempts": 1,
+        "score": 5,
+        "revision": 1,
+        "wrong": []
+      },
+      "illat-dan-tadhif": {
+        "step": 5,
+        "passed": true,
+        "attempts": 1,
+        "score": 5,
+        "revision": 1,
+        "wrong": []
+      },
+      "bina-dasar": {
+        "step": 5,
+        "passed": true,
+        "attempts": 1,
+        "score": 5,
+        "revision": 1,
+        "wrong": []
+      },
+      "bina-lanjutan": {
+        "step": 5,
+        "passed": true,
+        "attempts": 1,
+        "score": 5,
+        "revision": 1,
+        "wrong": []
+      },
+      "ushul-fiil-mashdar": {
+        "step": 5,
+        "passed": true,
+        "attempts": 1,
+        "score": 5,
+        "revision": 1,
+        "wrong": []
+      },
+      "ushul-pelaku-objek": {
+        "step": 5,
+        "passed": true,
+        "attempts": 1,
+        "score": 5,
+        "revision": 1,
+        "wrong": []
+      },
+      "ushul-perintah-tempat": {
+        "step": 5,
+        "passed": true,
+        "attempts": 1,
+        "score": 5,
+        "revision": 1,
+        "wrong": []
+      },
+      "ushul-majhul": {
+        "step": 5,
+        "passed": true,
+        "attempts": 1,
+        "score": 5,
+        "revision": 1,
+        "wrong": []
+      },
+      "lughawi-madhi": {
+        "step": 5,
+        "passed": true,
+        "attempts": 1,
+        "score": 5,
+        "revision": 1,
+        "wrong": []
+      },
+      "lughawi-mudhari": {
+        "step": 5,
+        "passed": true,
+        "attempts": 1,
+        "score": 5,
+        "revision": 1,
+        "wrong": []
+      },
+      "lughawi-enam-tiga": {
+        "step": 5,
+        "passed": true,
+        "attempts": 1,
+        "score": 5,
+        "revision": 1,
+        "wrong": []
+      },
+      "dhamir-objek": {
+        "step": 5,
+        "passed": true,
+        "attempts": 1,
+        "score": 5,
+        "revision": 1,
+        "wrong": []
+      },
+      "dhamir-idhafah": {
+        "step": 5,
+        "passed": true,
+        "attempts": 1,
+        "score": 5,
+        "revision": 1,
+        "wrong": []
+      },
+      "dhamir-huruf-jar": {
+        "step": 5,
+        "passed": true,
+        "attempts": 1,
+        "score": 5,
+        "revision": 1,
+        "wrong": []
+      },
+      "bab-satu-tiga": {
+        "step": 5,
+        "passed": true,
+        "attempts": 1,
+        "score": 5,
+        "revision": 1,
+        "wrong": []
+      },
+      "bab-empat-enam": {
+        "step": 5,
+        "passed": true,
+        "attempts": 1,
+        "score": 5,
+        "revision": 1,
+        "wrong": []
+      },
+      "kaidah-amr-nahyi": {
+        "step": 5,
+        "passed": true,
+        "attempts": 1,
+        "score": 5,
+        "revision": 1,
+        "wrong": []
+      },
+      "batas-materi": {
+        "step": 5,
+        "passed": true,
+        "attempts": 1,
+        "score": 5,
+        "revision": 1,
+        "wrong": []
+      }
+    },
+    "cards": {
+      "harakat:0": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "harakat:1": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "harakat:2": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "harakat:3": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "harakat:4": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "tanda-lanjutan:0": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "tanda-lanjutan:1": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "tanda-lanjutan:2": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "tanda-lanjutan:3": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "tanda-lanjutan:4": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "dhamir-sudut-pandang:0": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "dhamir-sudut-pandang:1": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "dhamir-sudut-pandang:2": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "dhamir-sudut-pandang:3": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "dhamir-sudut-pandang:4": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "dhamir-jumlah:0": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "dhamir-jumlah:1": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "dhamir-jumlah:2": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "dhamir-jumlah:3": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "dhamir-jumlah:4": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "dhamir-peta:0": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "dhamir-peta:1": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "dhamir-peta:2": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "dhamir-peta:3": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "dhamir-peta:4": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "wazan-tiga-huruf:0": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "wazan-tiga-huruf:1": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "wazan-tiga-huruf:2": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "wazan-tiga-huruf:3": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "wazan-tiga-huruf:4": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "huruf-asli-tambahan:0": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "huruf-asli-tambahan:1": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "huruf-asli-tambahan:2": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "huruf-asli-tambahan:3": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "huruf-asli-tambahan:4": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "illat-dan-tadhif:0": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "illat-dan-tadhif:1": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "illat-dan-tadhif:2": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "illat-dan-tadhif:3": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "illat-dan-tadhif:4": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "bina-dasar:0": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "bina-dasar:1": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "bina-dasar:2": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "bina-dasar:3": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "bina-dasar:4": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "bina-lanjutan:0": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "bina-lanjutan:1": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "bina-lanjutan:2": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "bina-lanjutan:3": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "bina-lanjutan:4": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "ushul-fiil-mashdar:0": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "ushul-fiil-mashdar:1": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "ushul-fiil-mashdar:2": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "ushul-fiil-mashdar:3": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "ushul-fiil-mashdar:4": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "ushul-pelaku-objek:0": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "ushul-pelaku-objek:1": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "ushul-pelaku-objek:2": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "ushul-pelaku-objek:3": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "ushul-pelaku-objek:4": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "ushul-perintah-tempat:0": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "ushul-perintah-tempat:1": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "ushul-perintah-tempat:2": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "ushul-perintah-tempat:3": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "ushul-perintah-tempat:4": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "ushul-majhul:0": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "ushul-majhul:1": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "ushul-majhul:2": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "ushul-majhul:3": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "ushul-majhul:4": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "lughawi-madhi:0": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "lughawi-madhi:1": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "lughawi-madhi:2": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "lughawi-madhi:3": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "lughawi-madhi:4": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "lughawi-mudhari:0": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "lughawi-mudhari:1": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "lughawi-mudhari:2": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "lughawi-mudhari:3": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "lughawi-mudhari:4": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "lughawi-enam-tiga:0": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "lughawi-enam-tiga:1": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "lughawi-enam-tiga:2": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "lughawi-enam-tiga:3": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "lughawi-enam-tiga:4": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "dhamir-objek:0": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "dhamir-objek:1": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "dhamir-objek:2": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "dhamir-objek:3": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "dhamir-objek:4": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "dhamir-idhafah:0": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "dhamir-idhafah:1": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "dhamir-idhafah:2": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "dhamir-idhafah:3": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "dhamir-idhafah:4": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "dhamir-huruf-jar:0": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "dhamir-huruf-jar:1": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "dhamir-huruf-jar:2": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "dhamir-huruf-jar:3": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "dhamir-huruf-jar:4": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "bab-satu-tiga:0": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "bab-satu-tiga:1": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "bab-satu-tiga:2": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "bab-satu-tiga:3": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "bab-satu-tiga:4": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "bab-empat-enam:0": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "bab-empat-enam:1": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "bab-empat-enam:2": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "bab-empat-enam:3": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "bab-empat-enam:4": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "kaidah-amr-nahyi:0": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "kaidah-amr-nahyi:1": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "kaidah-amr-nahyi:2": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "kaidah-amr-nahyi:3": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "kaidah-amr-nahyi:4": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "batas-materi:0": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "batas-materi:1": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "batas-materi:2": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "batas-materi:3": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      },
+      "batas-materi:4": {
+        "interval": 0,
+        "due": "2026-09-16",
+        "successes": [],
+        "lastReviewed": null,
+        "weak": false
+      }
+    },
+    "arabicSize": 32,
+    "lastLesson": "batas-materi"
+  }
+}
