@@ -13,7 +13,11 @@
     : selected < 0 || (i>=selected && (end<0 || i<end)));
 </script>
 <section class="mt-8">
-  <div class="mb-5"><h2 class="text-xl font-semibold tracking-tight">Sumber asli</h2><p class="mt-1 text-sm leading-6 text-muted-foreground">Pilih bagian untuk membaca penjelasan dan tabel sumber.</p></div>
+  <div class="mb-5">
+    <h2 class="text-xl font-semibold tracking-tight">Kitabut Tashrif</h2>
+    <p class="font-arabic mt-1 text-xl leading-8 text-foreground" lang="ar" dir="rtl">كِتَابُ التَّصْرِيفِ</p>
+    <p class="mt-1 text-sm leading-6 text-muted-foreground">Sumber utama materi pembelajaran. Pilih bagian untuk membaca transkripsi penjelasan dan tabel kitab.</p>
+  </div>
   {#if selectedId}<a class="mb-4 inline-flex min-h-11 items-center text-sm font-medium text-primary hover:underline" href={`#reference?${lessonId ? `lesson=${lessonId}&` : ''}tab=source`}>Lihat semua bagian sumber</a>{/if}
   {#if !sections.length}<p class="rounded-xl border border-dashed p-6 text-sm text-muted-foreground">Tidak ada bagian sumber yang cocok.</p>{/if}
   <div class="divide-y rounded-xl border bg-card px-4 sm:px-5">

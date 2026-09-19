@@ -1,5 +1,9 @@
 # Sharaf Lengkap
 
+> **Sumber utama pembelajaran:** _Kitabut Tashrif_ (`كِتَابُ التَّصْرِيفِ`). Materi aplikasi disusun dari transkripsi PDF scan _Sharaf Part 1_ sampai _Sharaf Part 3_ yang memuat isi kitab tersebut.
+>
+> **Batas bibliografi:** nama penulis, penerbit, tahun terbit, dan edisi belum tercatat pada berkas sumber yang tersedia, sehingga detail tersebut belum dicantumkan.
+>
 > **Transkripsi dan penataan ulang ke format Markdown** dari PDF _Sharaf Lengkap_ (39 halaman scan).
 > 
 > **Metode penulisan:** bentuk Arab dipertahankan dengan harakat sejauh terbaca pada scan. Penjelasan beraksara Pegon/Jawi dialihaksarakan dan dinormalkan ke ejaan Indonesia agar mudah dibaca, tanpa mengubah maksud pembahasan. Istilah asli seperti _dhamir, rafa', nashab, khafdh/jar, ma'ruf, majhul, mufrad, mutsanna,_ dan _jama'_ dipertahankan.

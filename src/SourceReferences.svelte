@@ -9,7 +9,8 @@
 </script>
 
 <section class="mt-7 border-t pt-6" aria-label="Sumber pelajaran">
-  <h3 class="mb-2 text-sm font-semibold">Sumber pelajaran</h3>
+  <h3 class="text-sm font-semibold">Sumber pelajaran</h3>
+  <p class="mb-2 mt-1 text-sm text-muted-foreground">Kitabut Tashrif <span class="font-arabic text-base" lang="ar" dir="rtl">كِتَابُ التَّصْرِيفِ</span></p>
   <ul class="divide-y">
     {#each sections as section (section.id)}
       <li>
