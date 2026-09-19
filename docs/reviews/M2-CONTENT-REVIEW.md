@@ -2,6 +2,9 @@
 
 Tanggal: **15 September 2026**
 
+Status: **Catatan historis**. Hasil ini berlaku untuk materi yang diperiksa pada tanggal tersebut, bukan seluruh soal versi 2.
+Panduan audit aktif berada di [CONTENT-AUDIT.md](../CONTENT-AUDIT.md).
+
 Sumber utama: `Sharaf Part 1.pdf`
 
 SHA-256 sumber: `176ebc7f6fda1640a4753f1b413ac974f783c498ccf743ab8a1653235a734172`

@@ -20,7 +20,7 @@ npm run build        # build statis produksi
 npm run coverage     # perbarui matriks cakupan kurikulum
 ```
 
-`AGENTS.md` meminta pengujian browser dilakukan sebagai smoke test manual. Jalankan daftar pemeriksaan redesign di `docs/UI-UX-SMOKE-TEST.md`; pemeriksaan otomatis di atas tidak mengklaim validasi visual atau interaksi browser.
+`AGENTS.md` meminta pengujian browser dilakukan sebagai smoke test manual. Jalankan daftar pemeriksaan redesign di [smoke test aplikasi](docs/UI-UX-SMOKE-TEST.md); pemeriksaan otomatis di atas tidak mengklaim validasi visual atau interaksi browser.
 
 ## Alur belajar
 
@@ -37,7 +37,7 @@ Sebelum migrasi, data asli disalin ke `sharaf.progress.before-v2`. Jika penyalin
 - `src/source.ts`: bagian sumber dengan tautan unik dan tabel baca.
 - `src/engine.ts`: penguasaan revisi, kartu, draft, validasi, dan migrasi.
 - `src/styles.css`, `src/lib/components/ui`: token Tailwind dan komponen shadcn-svelte.
-- `docs/UI-UX-ROADMAP.md`: status implementasi redesign.
+- [Indeks dokumentasi](docs/README.md): panduan aktif, sumber, dan arsip pemeriksaan.
 - `docs/CURRICULUM-COVERAGE.md`: semua bagian sumber, tujuan, latihan, cek, dan status verifikasi.
 - `docs/IMPLEMENTATION-REPORT.md`: perbaikan, bukti pemeriksaan, dan batas validasi.
 
