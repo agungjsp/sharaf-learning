@@ -20,7 +20,7 @@ Memahami, menerapkan, dan mengingat materi sumber. Nilai pemahaman dan retensi p
 Draft latihan/cek menyimpan posisi, jawaban, dan urutan pilihan. Riwayat pernah lulus terpisah dari penguasaan revisi terbaru. Kartu revisi lama ditangguhkan sampai cek ulang berhasil. Cadangan versi 1 dimigrasi dengan salinan asli terlebih dahulu.
 
 ## Evidence on Hand
-Sumber aktif: `docs/sumber.md`. Matriks: `docs/CURRICULUM-COVERAGE.md`. Lima pelajaran awal mempunyai catatan pemeriksaan scan terdahulu di `docs/reviews/M2-CONTENT-REVIEW.md`; soal baru dicocokkan dengan transkripsi. Tidak ada klaim pemeriksaan ulang PDF atau tersedianya rincian seluruh 22 bab. Mazid hanya pengantar.
+Sumber utama pembelajaran: _Kitabut Tashrif_ (`كِتَابُ التَّصْرِيفِ`). Transkripsi aktif berada di `docs/sumber.md`; nama penulis, penerbit, tahun terbit, dan edisi belum tercatat pada berkas sumber. Matriks berada di `docs/CURRICULUM-COVERAGE.md`. Lima pelajaran awal mempunyai catatan pemeriksaan scan terdahulu di `docs/reviews/M2-CONTENT-REVIEW.md`; soal baru dicocokkan dengan transkripsi. Tidak ada klaim pemeriksaan ulang PDF atau tersedianya rincian seluruh 22 bab. Mazid hanya pengantar.
 
 ## Product Principles
 Satu tujuan per pelajaran. Materi dan bank soal terpisah. Bentuk yang sama harus mendapat konteks jelas. Salah dijelaskan dan dilatih kembali. Jangan menghasilkan tashrif untuk akar sembarang. Data tidak valid atau gagal dicadangkan tidak ditimpa otomatis.

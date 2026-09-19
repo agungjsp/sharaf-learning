@@ -1,6 +1,6 @@
 # Sharaf Learning
 
-Aplikasi belajar sharaf pribadi dengan Svelte 5, Vite, TypeScript, Tailwind CSS 4, dan shadcn-svelte. Materi mengikuti `docs/sumber.md`: 63 pelajaran, tabel sumber lengkap, latihan kontekstual, dan pengulangan terjadwal.
+Aplikasi belajar sharaf pribadi dengan Svelte 5, Vite, TypeScript, Tailwind CSS 4, dan shadcn-svelte. Sumber utama pembelajaran adalah _Kitabut Tashrif_ (`كِتَابُ التَّصْرِيفِ`), berdasarkan transkripsi PDF scan _Sharaf Part 1_ sampai _Sharaf Part 3_ dalam `docs/sumber.md`. Aplikasi memuat 63 pelajaran, tabel sumber lengkap, latihan kontekstual, dan pengulangan terjadwal.
 
 ## Menjalankan
 
